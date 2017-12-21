@@ -1,14 +1,11 @@
 ﻿"use strict";
 
-//var str = "-23";
-
 button.onclick = function() {
     var str = text.value;
 
 var printBlock = document.getElementById("printBlock");
 
 var i;
-var result;
 var count = 0;
 
 i = 0; 
